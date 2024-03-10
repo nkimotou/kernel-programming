@@ -2,6 +2,12 @@
 
 ## In computer science, a kernel is a critical component of an operating system (OS) that acts as the core or nucleus, providing essential services to enable communication between hardware and software components. It manages system resources, facilitates process execution, and ensures efficient utilization of hardware resources.
 
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGQ2b2cwMmF5djBkcG85and5dndkemZscTAzOWp6a29ua2Q1NHY5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4N5ddOOJJ7gtKTgNac/giphy.gif" width = "300"/>
+</div>
+
+
 ## Functions and Responsibilities:
 
 ### Process Management: 
