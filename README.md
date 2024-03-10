@@ -1,2 +1,2 @@
-# kernal-programming
-Kernal programming
+# kernel-programming
+Kernel programming
